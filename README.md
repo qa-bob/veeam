@@ -19,3 +19,6 @@ Experience in e2e test development (with Playwright or a different test framewor
 An understanding of the Page Object Model test design pattern
 
 https://careers.veeam.com/job/poland/software-developer-in-test-javascript/22681/83526590368
+
+Trial of the Veeam AWS product:
+https://www.veeam.com/free-hybrid-cloud-trial.html
